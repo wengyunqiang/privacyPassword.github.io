@@ -20,15 +20,15 @@
 
 Our password recording app is designed to help you securely store and manage your account passwords. With our app, you can enjoy the following features:
 
-- **Password recording: Easily record and store your account passwords in a secure and organized manner.
+- **Password recording**: Easily record and store your account passwords in a secure and organized manner.
 
-- **Custom categories: Organize your passwords using custom categories to make it easier to find and manage your data.
+- **Custom categories**: Organize your passwords using custom categories to make it easier to find and manage your data.
 
-- **Image-based notes: Attach images to your password entries for added context and clarity. This can be useful for storing images of important documents or other visual information related to your accounts.
+- **Image-based notes**: Attach images to your password entries for added context and clarity. This can be useful for storing images of important documents or other visual information related to your accounts.
 
-- **Multiple unlocking options: Choose from multiple options for locking and unlocking your password vault, including gesture-based unlocking, face recognition unlocking, or fingerprint unlocking.
+- **Multiple unlocking options**: Choose from multiple options for locking and unlocking your password vault, including gesture-based unlocking, face recognition unlocking, or fingerprint unlocking.
 
-- **Local storage: All data entered into the app is stored locally on your device, ensuring that your data remains private and secure.
+- **Local storage**: All data entered into the app is stored locally on your device, ensuring that your data remains private and secure.
 
 **Privacy Statement**
 
